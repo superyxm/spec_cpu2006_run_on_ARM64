@@ -1,0 +1,1 @@
+# spec_cpu2006_run_on_ARM64
