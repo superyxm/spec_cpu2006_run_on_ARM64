@@ -10,6 +10,8 @@ Download linux-apm-arm64-118.tar, then uncompress the file.
 
 3. Replace the tools file with the file download in step2.
 
-4. Then，run sh ./install.sh
-
+4. Then，run sh 
+```
+./install.sh
+```
 5. When you find some errors, donwgrade you gcc,g++,gfortran.
