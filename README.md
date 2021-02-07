@@ -7,7 +7,9 @@ Then uncompress the ISO file.
 
 2. Then you need to download the tools for arm64, here is the website:https://www.spec.org/cpu2006/src.alt/
 Download linux-apm-arm64-118.tar, then uncompress the file.
-
+```
+wget https://www.spec.org/cpu2006/src.alt/linux-apm-arm64-118.tar
+```
 3. Replace the tools file with the file download in step2.
 
 4. Then，run sh 
